@@ -5,9 +5,9 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/scheduler"
-	"github.com/renproject/id"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/scheduler"
+	"github.com/muirglacier/id"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

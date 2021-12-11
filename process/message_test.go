@@ -5,10 +5,10 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/process/processutil"
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/process/processutil"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

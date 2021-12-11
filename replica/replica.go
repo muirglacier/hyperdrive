@@ -3,11 +3,11 @@ package replica
 import (
 	"context"
 
-	"github.com/renproject/hyperdrive/mq"
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/scheduler"
-	"github.com/renproject/hyperdrive/timer"
-	"github.com/renproject/id"
+	"github.com/muirglacier/hyperdrive/mq"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/scheduler"
+	"github.com/muirglacier/hyperdrive/timer"
+	"github.com/muirglacier/id"
 )
 
 // DidHandleMessage is called by the Replica after it has finished handling an

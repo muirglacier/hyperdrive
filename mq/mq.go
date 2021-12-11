@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/id"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/id"
 )
 
 // A MessageQueue is used to sort incoming messages by their height and round,

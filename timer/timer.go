@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/renproject/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/process"
 
-	"github.com/renproject/surge"
+	"github.com/muirglacier/surge"
 )
 
 // Timeout represents an event emitted by the Linear Timer whenever

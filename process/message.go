@@ -3,8 +3,8 @@ package process
 import (
 	"fmt"
 
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 )
 
 // MessageType enumerates the various types of Hyperdrive messages.

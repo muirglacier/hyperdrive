@@ -6,10 +6,10 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/process/processutil"
-	"github.com/renproject/hyperdrive/timer"
-	"github.com/renproject/surge/surgeutil"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/process/processutil"
+	"github.com/muirglacier/hyperdrive/timer"
+	"github.com/muirglacier/surge/surgeutil"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

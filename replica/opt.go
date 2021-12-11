@@ -1,8 +1,8 @@
 package replica
 
 import (
-	"github.com/renproject/hyperdrive/mq"
-	"github.com/renproject/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/mq"
+	"github.com/muirglacier/hyperdrive/process"
 
 	"go.uber.org/zap"
 )

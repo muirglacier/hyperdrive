@@ -5,7 +5,7 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/renproject/hyperdrive/mq"
+	"github.com/muirglacier/hyperdrive/mq"
 
 	"go.uber.org/zap"
 

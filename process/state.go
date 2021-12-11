@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 )
 
 var (

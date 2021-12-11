@@ -13,8 +13,8 @@
 package scheduler
 
 import (
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/id"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/id"
 )
 
 // RoundRobin holds a list of signatories that will participate in the round

@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/process/processutil"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/process/processutil"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

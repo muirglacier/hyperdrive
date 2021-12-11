@@ -3,8 +3,8 @@ package processutil
 import (
 	"math/rand"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/id"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/id"
 )
 
 // BroadcasterCallbacks provide callback functions to test the broadcaster

@@ -9,8 +9,8 @@ package process
 import (
 	"fmt"
 
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 )
 
 // A Timer is used to schedule timeout events.

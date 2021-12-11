@@ -5,11 +5,11 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/renproject/hyperdrive/mq"
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/process/processutil"
+	"github.com/muirglacier/hyperdrive/mq"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/process/processutil"
 
-	"github.com/renproject/id"
+	"github.com/muirglacier/id"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

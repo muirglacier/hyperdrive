@@ -9,12 +9,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/renproject/hyperdrive/process"
-	"github.com/renproject/hyperdrive/process/processutil"
-	"github.com/renproject/hyperdrive/replica"
-	"github.com/renproject/hyperdrive/timer"
-	"github.com/renproject/id"
-	"github.com/renproject/surge"
+	"github.com/muirglacier/hyperdrive/process"
+	"github.com/muirglacier/hyperdrive/process/processutil"
+	"github.com/muirglacier/hyperdrive/replica"
+	"github.com/muirglacier/hyperdrive/timer"
+	"github.com/muirglacier/id"
+	"github.com/muirglacier/surge"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
